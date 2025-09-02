@@ -1,0 +1,18 @@
+[project]
+name = "sinan_downloader"
+version = "0.1.0"
+description = "Ferramentas para baixar dados do SINAN com pysus"
+authors = [
+    { name="Diego Lima", email="exemplo@email.com" }
+]
+dependencies = [
+    "pandas",
+    "pysus"
+]
+
+[tool.setuptools]
+packages = ["src"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
