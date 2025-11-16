@@ -1,0 +1,490 @@
+{
+  "TP_NOT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_AGRAVO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_NOTIFIC": {
+    "descricao": "",
+    "valores": {}
+  },
+  "SEM_NOT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NU_ANO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "SG_UF_NOT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_MUNICIP": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_REGIONA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_UNIDADE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_SIN_PRI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "SEM_PRI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANO_NASC": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NU_IDADE_N": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CS_SEXO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CS_GESTANT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CS_RACA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CS_ESCOL_N": {
+    "descricao": "",
+    "valores": {}
+  },
+  "SG_UF": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_MN_RESI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_RG_RESI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_PAIS": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NDUPLIC_N": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_DIGITA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSUS": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSDM": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSSM": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSRM": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSRS": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_TRANSSE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NU_LOTE_V": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NU_LOTE_H": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CS_FLXRET": {
+    "descricao": "",
+    "valores": {}
+  },
+  "FLXRECEBI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MIGRADO_W": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_INVEST": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ID_OCUPA_N": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_LAM": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_CRI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_CAI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_FOS": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_SIN": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_PLA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_COR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_ROE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_GRA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_TER": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_LIX": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_CB_OUT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_OU_DES": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_HUMANO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ANT_ANIMAI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_DT_ATE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_FEBRE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_MIALGI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_CEFALE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_PROST": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_CONGES": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_PANTUR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_VOMITO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_DIARRE": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_ICTERI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_RENAL": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_RESPIR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_CARDIA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_HEMOPU": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_HEMORR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_MENING": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_OUTROS": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLI_OTRDES": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ATE_HOSP": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ATE_DT_INT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ATE_DT_ALT": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ATE_UF": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ATE_MUNICI": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_DT_1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_ELIS_1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_DT_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_ELIS_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DTMICRO1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO1_S1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO1_T_1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO1_S_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO1_T_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_MICR_1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DTMICRO2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO2_S1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO2_T_1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO2_S_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "MICRO2_T_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "LAB_MICR_2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DTISOLA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "RES_ISOL": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DTIMUNO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "RES_IMUNO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_PCR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "RES_PCR": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CLASSI_FIN": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CRITERIO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "TPAUTOCTO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "COUFINF": {
+    "descricao": "",
+    "valores": {}
+  },
+  "COPAISINF": {
+    "descricao": "",
+    "valores": {}
+  },
+  "COMUNINF": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CON_AREA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CON_AMBIEN": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DOENCA_TRA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "EVOLUCAO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_OBITO": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_ENCERRA": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_RISCO1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_RISCO2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_RISCO3": {
+    "descricao": "",
+    "valores": {}
+  },
+  "DT_RISCO4": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_MUN_R1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_MUN_R2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_MUN_R3": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_MUN_R4": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_UF_R1": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_UF_R2": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_UF_R3": {
+    "descricao": "",
+    "valores": {}
+  },
+  "CO_UF_R4": {
+    "descricao": "",
+    "valores": {}
+  },
+  "NU_LOTE_I": {
+    "descricao": "",
+    "valores": {}
+  },
+  "ano": {
+    "descricao": "",
+    "valores": {}
+  }
+}

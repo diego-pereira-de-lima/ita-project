@@ -4,7 +4,7 @@ Este repositório é parte do Trabalho de Conclusão de Curso (TCC) do Instituto
 
 ---
 
-## 📁 Análises de dados de Hepatite
+## 📁 Análises de dados de Leptospirose
 ### 📁 Estrutura do projeto
 
 ```bash
